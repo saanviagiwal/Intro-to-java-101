@@ -1,0 +1,28 @@
+// Athlete.java
+public class Athlete {
+    int x, y;
+    String name;
+    
+    // TODO: Add a no-arg constructor that calls another constructor
+    
+    // TODO: Add a constructor with name, x, y
+    
+    public void reportPosition() {
+        // TODO: Print name and position
+    }
+}
+
+// Lab09.java
+public class Lab09 {
+    public static void takeTheField(Athlete a) {
+        // TODO: Set athlete position to (5, 5) and call reportPosition
+    }
+    
+    public static void main(String[] args) {
+        // TODO: Create an array of 6 Athlete objects using default constructor
+        
+        // TODO: Create a coach using the 3-arg constructor
+        
+        // TODO: Use takeTheField on each player
+    }
+}
