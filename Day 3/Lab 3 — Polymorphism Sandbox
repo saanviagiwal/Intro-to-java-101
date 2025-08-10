@@ -1,0 +1,29 @@
+// Animal.java
+public class Animal {
+    public void sound() {
+        // TODO: Print a generic animal sound
+    }
+}
+
+// Dog.java
+public class Dog extends Animal {
+    public void sound() {
+        // TODO: Print "Woof!"
+    }
+}
+
+// Lab.java
+public class Lab extends Dog {
+    public void sound() {
+        // TODO: Print "Bark bark!"
+    }
+}
+
+// PolymorphismLab.java
+public class PolymorphismLab {
+    public static void main(String[] args) {
+        // TODO: Create Animal, Dog, and Lab objects as Animal type variables
+        
+        // TODO: Call sound() on each
+    }
+}
