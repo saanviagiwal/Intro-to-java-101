@@ -1,0 +1,24 @@
+// Robot.java
+class Robot {
+    String name;
+    int x, y;
+
+    // TODO: Create a constructor that sets name, x, and y
+    
+    // TODO: Create a method moveForward() that increases y by 1 and prints the new location
+    
+    // TODO: Create a method turnLeft() that prints that the robot turned left
+    
+    // TODO: Create a method putBeeper() that prints that the robot put a beeper at its location
+}
+
+// HelloRobot.java
+public class HelloRobot {
+    public static void main(String[] args) {
+        // TODO: Create a Robot named "Karel" starting at (0, 0)
+        
+        // TODO: Call methods to move, put beeper, move again, turn left
+        
+        // BONUS: Change starting position
+    }
+}
