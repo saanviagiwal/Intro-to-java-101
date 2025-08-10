@@ -6,6 +6,5 @@ public class OperatorsLab {
         
         // TODO: Store a sum in a variable and print it with a label
         
-        // BONUS: Use == to compare two numbers and print the result
     }
 }
