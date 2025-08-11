@@ -5,7 +5,7 @@ public class OperatorsLab {
         
         // Print their sum, difference, product, quotient, and remainder
         
-        // Store a sum in a variable and print it with a label
+        // Store a sum in a variable and print it
         
     }
 }
