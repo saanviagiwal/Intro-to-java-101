@@ -1,9 +1,9 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        // TODO: Use System.out.println() to print "Hello, World!"
-        System.out.println("hi"); 
-        // TODO: Change it to print your name instead
+        // Use System.out.println() to print "Hello, World!"
         
-        // BONUS: Print your name on one line and your favorite color on the next
+        // Change it to print your name instead
+        
+        // Print your name on one line and your favorite color on the next
     }
 }
