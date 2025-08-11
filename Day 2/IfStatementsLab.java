@@ -1,13 +1,12 @@
 public class IfStatementsLab {
     public static void main(String[] args) {
-        // TODO: Create a boolean variable groceries and set it to true or false
+        // Create a boolean variable groceries and set it to true or false
         // If true, print "I need to go to the store!"
         
-        // TODO: Create an int variable number
+        // Create an int variable number
         // If less than 10, print "number is less than 10"
         // If greater than 10, print "number is greater than 10"
         // Otherwise, print "number is equal to 10"
         
-        // BONUS: Add your own 2–3 conditions
     }
 }
