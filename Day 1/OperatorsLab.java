@@ -1,10 +1,10 @@
 public class OperatorsLab {
     public static void main(String[] args) {
-        // TODO: Create two int variables a and b
+        // Create two int variables a and b
         
-        // TODO: Print their sum, difference, product, quotient, and remainder
+        // Print their sum, difference, product, quotient, and remainder
         
-        // TODO: Store a sum in a variable and print it with a label
+        // Store a sum in a variable and print it with a label
         
     }
 }
