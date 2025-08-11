@@ -2,18 +2,18 @@ public class StringMethodsLab {
     public static void main(String[] args) {
         String s = "JavaProgramming";
         
-        // TODO: Print first character
+        // Print first character
         
-        // TODO: Check if it contains "Pro"
+        // Check if it contains "Pro"
         
-        // TODO: Compare ignoring case
+        // Compare ignoring case
         
-        // TODO: Find index of "gram"
+        // Find index of "gram"
         
-        // TODO: Print length
+        // Print length
         
-        // TODO: Extract substring "Program"
+        // Extract substring "Program"
         
-        // TODO: Print lowercase and uppercase versions
+        // Print lowercase and uppercase versions
     }
 }
